@@ -1,0 +1,10 @@
+project_id  = ???
+stack       = ???
+domain_name = ???
+tags = {
+  CreatedBy          = ???
+  CreationDate       = ???
+  ProjectPrefix      = ??
+  ProjectDescription = ??
+}
+sns_subscriber_email = ???
